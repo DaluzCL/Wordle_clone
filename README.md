@@ -2,7 +2,7 @@
 
 > Clone do famoso jogo de palavras Wordle, desenvolvido em React com palavras em português.
 
-🔗 **[Jogar agora](#)** — link do Netlify aqui quando publicar
+🔗 **[Jogar agora](https://app.netlify.com/projects/wordle-daluzcl/overview)** 
 
 ---
 
