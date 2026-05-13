@@ -8,7 +8,7 @@
 
 ## 📸 Screenshots
 
-![Jogo em andamento](./screenshots/inicio.png)
+![Jogo em andamento](./screenshots/Inicio.png)
 ![Vitória](./screenshots/acertou.png)
 ![Derrota](./screenshots/errou.png)
 
